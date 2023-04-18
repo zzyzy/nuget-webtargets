@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>MSBuild.Microsoft.VisualStudio.Web.targets</id>
-    <version>14.0.0.3</version>
+    <version>14.0.0.4</version>
     <authors>Microsoft</authors>
     <owners>Pēteris Ņikiforovs</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
